@@ -1,2 +1,0 @@
-# LessonGB
-LessonGB
